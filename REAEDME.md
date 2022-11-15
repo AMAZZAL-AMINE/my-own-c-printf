@@ -1,5 +1,5 @@
 <h1 align="center">
-	✏️ ft_printf
+	✏️ my own c printf 
 </h1>
 
 <p align="center">
